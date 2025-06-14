@@ -245,5 +245,5 @@ form button {
   }
 }
 .panda-face:hover{
-  animation: 1s hello infinite;
+  animation: 1s hello;
 }
